@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: brown;
+    color: bisque;
+    text-align: center;
+    padding: 30px 0;
+}
+
+section {
+    background-color: brown;
+    margin: 20px 210px;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(red, green, blue, alpha)
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+a {
+    color: brown;
+}
+
+.profil {
+    background-color: black;
+    color: aliceblue;
+    padding: 25px 30px;
+}
+.profil ul {
+    margin-left: 45px;
+}
+
+.img {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: brown;
+    color: aliceblue;
+    padding: 15px 0;
+}
